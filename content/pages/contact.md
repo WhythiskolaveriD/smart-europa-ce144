@@ -16,13 +16,7 @@ sections:
         content: |
           please write to bramha@iisc.ac.in
         content_align: center
-        actions:
-          - label: Get Support
-            url: /general-enquiries
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         actions_align: center
         image: images/classic/icon-1.svg
         image_alt: Partnering and sponsorships icon
