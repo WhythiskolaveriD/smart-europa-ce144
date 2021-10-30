@@ -14,27 +14,27 @@ sections:
         subtitle: Assistant Professor
         content: >
           I have a bachelors degree in Electronics and Communication
-          Engineering, wherein my favorite subject was signal processing.
-          Intrigued by the application of signal processing in real world, I did
-          a masters in Geomatics Engineering, where analysis of geospatial data
-          is a routine job. In my   masters thesis I worked on analysing GRACE
-          timeseries and in my PhD I developed data-driven methods to process
-          level 2 GRACE data at catchment scale. Please get in touch if you want
-          to learn more about the GRACE satellite mission of about the latest
-          research from the GESS group at ICWaR, IISc.
+          Engineering, a masters in Geomatics Engineering, and a PhD in Geodesy.
+          In my   masters thesis I worked on analyzing GRACE timeseries and in
+          my PhD I developed data-driven methods to process level 2 GRACE data
+          at catchment scale. I work with multiple Earth observation datasets to
+          estimate various surface processes that are related to ongoing climate
+          change. In my free time I like to play badminton and cricket.
 
 
-          In recent years, I have worked with multiple Earth observation
-          datasets to find that several surface processes are an excellent
-          indicator of ongoing changes in the Earth system due to climate
-          change. For example, the temperature is rising, glaciers and
-          ice-sheets are melting, sea level is rising, due to mass
-          redistribution both the geoid and solid Earth are changing, which
-          means the relative sea level is changing differently at diffeent
-          locations. Hence to understand the implications of sea level change
-          for a coastal community, you have to study all the sub-systems of the
-          Earth together. In other words, systems approach should be taken into
-          consideration. This is my research vision.
+          My research interest:
+
+
+          *   satellite gravimetry
+
+
+          *   signal processing
+
+
+          *   climate change
+
+
+          *   data-driven methods
         image: /images/IMG_1517.JPG
         image_alt: People in conversation in the office lounge area
         media_position: right
