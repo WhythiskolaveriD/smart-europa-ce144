@@ -53,7 +53,8 @@ sections:
         content_align: left
         actions:
           - label: directions
-            url: 'https://goo.gl/maps/eh6fn7JjMS4vYs337'
+            url: >-
+              https://www.google.com/maps/place/Interdisciplinary+Centre+For+Water+(ICWaR)/@13.0159138,77.5682368,15z/data=!4m2!3m1!1s0x0:0x6a432b714a8f5510?sa=X&ved=2ahUKEwijpPHD6vLzAhWhkOYKHUCgAwYQ_BJ6BAhFEAU
             style: link
             has_icon: true
             icon: arrow-right
