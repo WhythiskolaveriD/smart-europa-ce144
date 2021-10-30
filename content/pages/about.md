@@ -9,7 +9,7 @@ sections:
   - type: features_section
     features:
       - title: Bramha Dutt Vishwakarma
-        subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: Assistant Professor
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
