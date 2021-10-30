@@ -17,7 +17,7 @@ sections:
 
         content_align: left
         actions:
-          - label: Start with Personal
+          - label: IISc admissions portal
             url: /features
             style: primary
         actions_align: left
