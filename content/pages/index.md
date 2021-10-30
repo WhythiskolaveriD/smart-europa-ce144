@@ -105,7 +105,7 @@ sections:
       - title: Mr. Vivek Yadav
         subtitle: PhD Student
         title_align: center
-        image: images/dianne-ameter.jpg
+        image: /images/vivek.jpg
         image_position: top
       - title: Hugh Saturation
         subtitle: Developer Advocate
