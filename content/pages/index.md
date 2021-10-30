@@ -98,7 +98,7 @@ sections:
         style: primary
     grid_items:
       - title: Dr. Bramha Dutt Vishwakarma
-        subtitle: Co-Founder & CEO
+        subtitle: Assistant Professor
         title_align: center
         image: images/gustav-purpleson.jpg
         image_position: top
