@@ -100,7 +100,7 @@ sections:
       - title: Dr. Bramha Dutt Vishwakarma
         subtitle: Assistant Professor
         title_align: center
-        image: images/gustav-purpleson.jpg
+        image: /images/avatar.jpg
         image_position: top
       - title: Dianne Ameter
         subtitle: Software Engineer
