@@ -34,7 +34,7 @@ sections:
         content_align: left
         actions:
           - label: Postdoc @ IISc
-            url: /features
+            url: 'https://iisc.ac.in/post-docs/'
             style: primary
         actions_align: left
         actions_width: full-width
