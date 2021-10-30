@@ -18,7 +18,7 @@ sections:
         content_align: left
         actions:
           - label: IISc admissions portal
-            url: /features
+            url: 'https://admissions.iisc.ac.in/Web/SelectUGPG.aspx'
             style: primary
         actions_align: left
         actions_width: full-width
