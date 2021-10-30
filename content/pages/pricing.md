@@ -3,7 +3,6 @@ title: Pricing
 sections:
   - type: hero_section
     title: Want to join us?
-    subtitle: b
     align: center
     padding_top: large
     padding_bottom: small
