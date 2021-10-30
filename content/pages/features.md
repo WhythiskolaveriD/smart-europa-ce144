@@ -7,7 +7,7 @@ sections:
   - type: features_section
     features:
       - title: Himalayan water resources ad climate change
-        subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: How much water
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
