@@ -3,7 +3,7 @@ title: About
 sections:
   - type: hero_section
     title: Our members
-    subtitle: About Page Demo
+    subtitle: we are a team of curious individuals from different disciplines
     align: center
     background_color: secondary
   - type: features_section
