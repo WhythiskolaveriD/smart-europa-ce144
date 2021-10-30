@@ -11,17 +11,10 @@ sections:
     grid_items:
       - title: PhD positions
         title_align: left
-        content: |-
-          ---
+        content: >+
+          Please apply through IISc admissions portal and get in touch if you
+          have any question.
 
-          ### $9
-
-          per month, billed yearly
-
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Nisi cubilia interdum ultricies
         content_align: left
         actions:
           - label: Start with Personal
