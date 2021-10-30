@@ -15,7 +15,7 @@ sections:
       - label: Our team
         url: /about
         style: primary
-      - label: Learn More
+      - label: Recent work
         url: /features
         style: secondary
     image: images/classic/hero.png
