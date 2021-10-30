@@ -3,7 +3,6 @@ title: Blog
 sections:
   - type: hero_section
     title: Recent articles and activities
-    subtitle: The optional subtitle
     align: center
     padding_top: medium
     padding_bottom: none
