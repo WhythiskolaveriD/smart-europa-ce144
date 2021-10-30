@@ -23,7 +23,7 @@ sections:
             new_window: true
         actions_align: left
         actions_width: full-width
-      - title: Premium
+      - title: Postdocs
         subtitle: Optional subtitle
         title_align: left
         content: |-
