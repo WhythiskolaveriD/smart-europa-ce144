@@ -7,7 +7,7 @@ sections:
   - type: features_section
     features:
       - title: sea level rise and its components
-        subtitle: How much water
+        subtitle: closing the budget
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
