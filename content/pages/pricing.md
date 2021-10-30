@@ -33,7 +33,7 @@ sections:
 
         content_align: left
         actions:
-          - label: Start with Premium
+          - label: Postdoc @ IISc
             url: /features
             style: primary
         actions_align: left
