@@ -52,7 +52,7 @@ sections:
           email: bramha@isc.ac.in
         content_align: left
         actions:
-          - label: Get Directions
+          - label: connect with us
             url: 'https://goo.gl/maps/eh6fn7JjMS4vYs337'
             style: link
             has_icon: true
