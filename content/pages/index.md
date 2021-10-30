@@ -108,7 +108,7 @@ sections:
         image: /images/vivek.jpg
         image_position: top
       - title: Ms. Iqra Shafi
-        subtitle: Developer Advocate
+        subtitle: PhD Student
         title_align: center
         image: /images/iqra.jpg
         image_position: top
