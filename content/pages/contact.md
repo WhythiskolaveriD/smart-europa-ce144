@@ -45,7 +45,7 @@ sections:
             icon: arrow-right
             icon_position: right
         actions_align: center
-        image: images/classic/icon-2.svg
+        image: /images/New-IISc-Map.jpg
         image_alt: Help and support icon
         image_position: top
         image_align: center
