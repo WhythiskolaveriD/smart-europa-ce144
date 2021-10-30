@@ -16,7 +16,7 @@ sections:
         url: /about
         style: primary
       - label: Recent work
-        url: /features
+        url: /blog
         style: secondary
     image: images/classic/hero.png
     image_alt: Hero section placeholder image
