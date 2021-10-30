@@ -79,7 +79,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-    grid_cols: four
+    grid_cols: two
     grid_gap_horiz: large
     grid_gap_vert: large
     enable_cards: true
