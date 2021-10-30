@@ -29,7 +29,10 @@ sections:
   - type: features_section
     features:
       - title: Our Approach
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: >-
+          It doesn't matter how beautiful your theory is, it doesn't matter how
+          smart you are. If it doesn't agree with experiment, it's wrong.
+          -Richard P. Feynman
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
