@@ -4,13 +4,12 @@ sections:
   - type: hero_section
     title: Welcome to the webpage of GESS research group
     content: >
-      The **GESS group** aims at employing geodetic datasets such as from
-      satellite gravimetry, GNSS, and altimetry in tandem with geophysical
-      models and other hydro-meteorological observations to improve our
-      understanding of ongoing changes in the Earth system. We are interested in
-      extracting and explaining the signature of climate change in contemporary
-      Earth observation datasets. We try to make our research work openly
-      accessible either through our github page or on request.
+      Welcome to the webpage of the GESS research Group at ICWaR, IISC. Our
+      group is interested in using Earth observation data for monitoring and
+      understanding the changes in the Earth system. Our core expertise is in
+      processing and using geodetic datasets, such as GRACE, GNSS and altimetry,
+      in tandem with other Earth observation datasets/models for mapping various
+      surface processes that related to climate change and human activities.
     actions:
       - label: Our team
         url: /about
