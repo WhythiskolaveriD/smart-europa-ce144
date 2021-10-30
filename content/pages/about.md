@@ -20,10 +20,10 @@ sections:
         media_width: fifty
       - title: Vivek Yadav
         subtitle: PhD student
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: |
+          my bio
+
+          contact: viveky@iisc.ac.in
         image: /images/vivek.jpg
         image_alt: People in a conference room
         media_position: left
