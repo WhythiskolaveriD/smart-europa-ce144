@@ -32,9 +32,9 @@ sections:
         image_has_padding: true
       - title: Directions
         title_align: center
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla.
+        content: >
+          Enter the main gate, take the first right, then at the T junction take
+          right and then first left. You have arrived.
         content_align: center
         actions:
           - label: to google maps
