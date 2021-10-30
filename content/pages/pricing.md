@@ -40,18 +40,10 @@ sections:
         actions_width: full-width
       - title: Internships and short projects
         title_align: left
-        content: |-
-          ---
-
-          ### $39
-
-          per month, billed yearly
-
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Nisi cubilia interdum ultricies
-          * Feugiat porta tortor
+        content: >
+          If you are looking for a internship or want to do a research project
+          as a part of your curriculum. Please write to us at
+          bramha@iisc.ac.in. 
         content_align: left
         actions:
           - label: Start with Business
