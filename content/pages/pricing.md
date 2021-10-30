@@ -25,18 +25,12 @@ sections:
         actions_width: full-width
       - title: Postdocs
         title_align: left
-        content: |-
-          ---
+        content: >+
+          Are you looking for opportunities to work as a independent researcher?
+          If you have finished your PhD or if you are about to, and your
+          research interest matches with ours, please write to us. We will
+          support your application for various available fellowships.
 
-          ### $19
-
-          per month, billed yearly
-
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Fringilla diam magnis libero lacinia
-          * Litora primis facilisis ullamcorper per
         content_align: left
         actions:
           - label: Start with Premium
