@@ -20,6 +20,7 @@ sections:
           - label: IISc admissions portal
             url: 'https://admissions.iisc.ac.in/Web/SelectUGPG.aspx'
             style: primary
+            new_window: true
         actions_align: left
         actions_width: full-width
       - title: Premium
