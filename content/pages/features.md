@@ -6,7 +6,7 @@ sections:
     background_color: primary
   - type: features_section
     features:
-      - title: Himalayan water resources ad climate change
+      - title: Himalayan water resources and climate change
         subtitle: How much water
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
