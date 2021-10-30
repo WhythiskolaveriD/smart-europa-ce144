@@ -2,7 +2,7 @@
 title: Gustav Purpleson
 sections:
   - type: hero_section
-    title: Gustav Purpleson
+    title: Bramha Dutt Vishwakarma
     subtitle: The optional subtitle
     align: center
     padding_top: medium
