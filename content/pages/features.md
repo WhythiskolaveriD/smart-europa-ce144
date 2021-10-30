@@ -6,7 +6,7 @@ sections:
     background_color: primary
   - type: features_section
     features:
-      - title: Himalayan water resources and climate change
+      - title: sea level rise and its components
         subtitle: How much water
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
