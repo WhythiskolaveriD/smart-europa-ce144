@@ -43,13 +43,7 @@ sections:
           from glacial isostatic adjustment (response of the solid Earth to
           galcial cycles) and Present day mass change using GRACE satellite data
           and GNSS time-series (see our Publications section for more).
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/classic/feature-1.png
         image_alt: Feature 1 placeholder image
         media_position: right
