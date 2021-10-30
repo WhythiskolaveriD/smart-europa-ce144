@@ -33,10 +33,16 @@ sections:
           It doesn't matter how beautiful your theory is, it doesn't matter how
           smart you are. If it doesn't agree with experiment, it's wrong.
           -Richard P. Feynman
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Clever signal processing has been historically proven to provide novel
+          insights. Looking at the same data, but from a different perspective
+          can help us pull out patterns that tend to explain observed complex
+          physical mechanisms and their spatiotemporal behaviour. We aspire to
+          develop novel data-driven approaches for understanding natural
+          phenomenon. We have recently developed a method to estimate signals
+          from glacial isostatic adjustment (response of the solid Earth to
+          galcial cycles) and Present day mass change using GRACE satellite data
+          and GNSS time-series (see our Publications section for more).
         actions:
           - label: Learn More
             url: /style-guide
