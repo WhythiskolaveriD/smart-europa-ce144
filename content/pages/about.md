@@ -33,7 +33,7 @@ sections:
         content: |
           my bio
 
-          contact: iqra@iisc.ac.in
+          contact: iqrashafi@iisc.ac.in
         image: /images/iqra.jpg
         image_alt: Happy co-workers
         media_position: right
