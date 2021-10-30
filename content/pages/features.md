@@ -6,7 +6,7 @@ sections:
     background_color: primary
   - type: features_section
     features:
-      - title: Himalyan water resources
+      - title: Himalayan water resources ad climate change
         subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
