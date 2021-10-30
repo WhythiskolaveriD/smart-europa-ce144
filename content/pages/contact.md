@@ -30,7 +30,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: Direction
+      - title: Directions
         title_align: center
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
