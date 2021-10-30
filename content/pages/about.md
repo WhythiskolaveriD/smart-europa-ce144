@@ -61,8 +61,7 @@ sections:
             icon_position: right
         actions_align: left
         actions_width: auto
-      - subtitle: lorem-ipsum
-        title_align: left
+      - title_align: left
         content: |
           *
         content_align: left
