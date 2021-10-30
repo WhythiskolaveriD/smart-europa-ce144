@@ -5,7 +5,7 @@
     "style": "minimal",
     "palette": "blue",
     "mode": "light",
-    "base_font": "serif",
+    "base_font": "sans-serif",
     "header": {
         "title": "DIY",
         "logo": "/images/logoGESS.jpg",
