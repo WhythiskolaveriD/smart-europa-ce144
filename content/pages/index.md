@@ -103,7 +103,7 @@ sections:
         image: /images/avatar.jpg
         image_position: top
       - title: Mr. Vivek Yadav
-        subtitle: Software Engineer
+        subtitle: PhD Student
         title_align: center
         image: images/dianne-ameter.jpg
         image_position: top
