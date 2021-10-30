@@ -13,7 +13,7 @@ sections:
       accessible either through our github page or on request.
     actions:
       - label: Our team
-        url: /pricing
+        url: /about
         style: primary
       - label: Learn More
         url: /features
