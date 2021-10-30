@@ -49,10 +49,17 @@ sections:
         media_position: right
         media_width: fifty
       - title: Our mission
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Our planet consists of various sub-systems, such as hydrosphere,
+          Lithosphere, Atmosphere and Biosphere. Traditionally we have been
+          studying these sub-systems in isolation. However, recent advances in
+          our understanding of our planet has taught us that these systems are
+          interconnected and by studying them together, we can better understand
+          the response of the Earth system to various forcings. This concept is
+          even more important in the context of climate change. Therefore, our
+          group focuses on using geodetic datasets for elucidating the impact of
+          climate change and human intervention to our hydrosphere, while taking
+          a systems approach.
         actions:
           - label: Learn More
             url: /style-guide
