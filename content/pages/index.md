@@ -42,7 +42,8 @@ sections:
           phenomenon. We have recently developed a method to estimate signals
           from glacial isostatic adjustment (response of the solid Earth to
           galcial cycles) and Present day mass change using GRACE satellite data
-          and GNSS time-series (see our Publications section for more).
+          and GNSS time-series (visit our Publications section for references
+          that go in more details).
         actions: []
         image: images/classic/feature-1.png
         image_alt: Feature 1 placeholder image
