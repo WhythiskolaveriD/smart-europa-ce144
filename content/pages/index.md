@@ -107,7 +107,7 @@ sections:
         title_align: center
         image: /images/vivek.jpg
         image_position: top
-      - title: Hugh Saturation
+      - title: Ms. Iqra Shafi
         subtitle: Developer Advocate
         title_align: center
         image: /images/iqra.jpg
