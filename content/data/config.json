@@ -13,13 +13,13 @@
         "has_primary_nav": true,
         "primary_nav_links": [
             {
-                "label": "Ongoing Projects",
-                "url": "/features",
+                "label": "About",
+                "url": "/about",
                 "style": "link"
             },
             {
-                "label": "About",
-                "url": "/about",
+                "label": "Ongoing Projects",
+                "url": "/features",
                 "style": "link"
             },
             {
