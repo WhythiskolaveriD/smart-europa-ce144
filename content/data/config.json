@@ -53,7 +53,7 @@
         ]
     },
     "footer": {
-        "logo": "/images/logoGESS_wide.png",
+        "logo": "/images/logoGESSwide.png",
         "logo_alt": "DIY logo",
         "has_primary_nav": false,
         "primary_nav_title": "Company",
