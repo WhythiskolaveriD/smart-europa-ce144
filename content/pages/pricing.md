@@ -45,10 +45,7 @@ sections:
           as a part of your curriculum. Please write to us at
           bramha@iisc.ac.in. 
         content_align: left
-        actions:
-          - label: Start with Business
-            url: /features
-            style: primary
+        actions: []
         actions_align: left
         actions_width: full-width
     grid_cols: three
