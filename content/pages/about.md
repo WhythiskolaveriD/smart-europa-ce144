@@ -2,7 +2,7 @@
 title: About
 sections:
   - type: hero_section
-    title: Our members
+    title: The team
     subtitle: we are a team of curious individuals from different disciplines
     align: center
     background_color: secondary
