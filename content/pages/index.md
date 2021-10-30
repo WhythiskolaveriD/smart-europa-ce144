@@ -48,7 +48,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
-      - title: Our mission
+      - title: Why?
         content: >
           Our planet consists of various sub-systems, such as hydrosphere,
           Lithosphere, Atmosphere and Biosphere. Traditionally we have been
