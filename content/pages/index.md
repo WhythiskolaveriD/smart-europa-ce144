@@ -91,7 +91,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: Team Section
+    title: Team
     actions:
       - label: Join the team
         url: /style-guide
