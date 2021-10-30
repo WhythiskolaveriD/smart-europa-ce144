@@ -3,7 +3,7 @@ title: Gustav Purpleson
 sections:
   - type: hero_section
     title: Bramha Dutt Vishwakarma
-    subtitle: The optional subtitle
+    subtitle: PI of GESS group
     align: center
     padding_top: medium
     padding_bottom: none
