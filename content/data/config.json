@@ -48,7 +48,8 @@
             {
                 "label": "ICWaR @ IISc",
                 "url": "http://www.icwar.iisc.ac.in/",
-                "style": "primary"
+                "style": "primary",
+                "new_window": true
             }
         ]
     },
