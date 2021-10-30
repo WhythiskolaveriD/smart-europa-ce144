@@ -12,7 +12,7 @@ sections:
       Earth observation datasets. We try to make our research work openly
       accessible either through our github page or on request.
     actions:
-      - label: Try Free
+      - label: Our team
         url: /pricing
         style: primary
       - label: Learn More
