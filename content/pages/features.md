@@ -16,7 +16,7 @@ sections:
         image_alt: Top view of business meeting
         media_position: right
         media_width: fifty
-      - title: Section Title Two
+      - title: Teleconnections in GRACE data
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
