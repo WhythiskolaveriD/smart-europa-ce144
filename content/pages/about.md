@@ -3,7 +3,9 @@ title: About
 sections:
   - type: hero_section
     title: The team
-    subtitle: we are a team of curious individuals from different disciplines
+    subtitle: >-
+      we are a multidisciplinary team of curious individuals working to better
+      understand the changes in our hydrosphere
     align: center
     background_color: secondary
   - type: features_section
