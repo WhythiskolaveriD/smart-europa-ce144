@@ -6,6 +6,7 @@ sections:
     align: center
     padding_top: large
     padding_bottom: small
+    subtitle: 'Research is creating new knowledge. '
   - type: grid_section
     grid_items:
       - title: PhD positions
