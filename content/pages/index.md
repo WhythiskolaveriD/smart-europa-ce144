@@ -94,7 +94,7 @@ sections:
     title: Team
     actions:
       - label: Join the team
-        url: /style-guide
+        url: /
         style: primary
     grid_items:
       - title: Dr. Bramha Dutt Vishwakarma
