@@ -15,7 +15,7 @@ sections:
       - label: Our team
         url: /about
         style: primary
-      - label: Recent work
+      - label: publications
         url: /style-guide
         style: secondary
     image: images/classic/hero.png
