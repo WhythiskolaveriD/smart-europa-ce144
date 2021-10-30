@@ -2,7 +2,7 @@
 title: Features
 sections:
   - type: hero_section
-    title: under investigation
+    title: currently under investigation
     background_color: primary
   - type: features_section
     features:
