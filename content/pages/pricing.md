@@ -10,7 +10,6 @@ sections:
   - type: grid_section
     grid_items:
       - title: PhD positions
-        subtitle: Optional subtitle
         title_align: left
         content: |-
           ---
