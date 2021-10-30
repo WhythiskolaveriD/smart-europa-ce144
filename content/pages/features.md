@@ -3,7 +3,6 @@ title: Features
 sections:
   - type: hero_section
     title: under investigation
-    subtitle: Features Page Demo
     background_color: primary
   - type: features_section
     features:
