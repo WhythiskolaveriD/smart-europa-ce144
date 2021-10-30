@@ -39,7 +39,7 @@ sections:
         media_position: right
         media_width: fifty
   - type: grid_section
-    title: located @
+    title: 'located @ 13.0219° N, 77.5671° E'
     grid_items:
       - title: Some City
         content: >-
