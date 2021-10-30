@@ -78,7 +78,7 @@ sections:
     title: Team
     actions:
       - label: Join the team
-        url: /vacancy
+        url: /pricing
         style: primary
     grid_items:
       - title: Dr. Bramha Dutt Vishwakarma
