@@ -13,9 +13,8 @@ sections:
     grid_items:
       - title: write to us
         title_align: center
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam.
+        content: |
+          please write to bramha@iisc.ac.in
         content_align: center
         actions:
           - label: Get Support
