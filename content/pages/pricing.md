@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: vacancies
 sections:
   - type: hero_section
     title: Want to join us?
