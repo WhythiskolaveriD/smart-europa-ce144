@@ -112,10 +112,6 @@ sections:
         title_align: center
         image: /images/iqra.jpg
         image_position: top
-      - title: Hilary Ouse
-        subtitle: Operations Manager
-        title_align: center
-        image_position: top
     grid_cols: four
     align: center
     background_color: secondary
