@@ -37,7 +37,7 @@ sections:
           diam quam nulla.
         content_align: center
         actions:
-          - label: Get Support
+          - label: to google maps
             url: >-
               https://www.google.com/maps/place/Interdisciplinary+Centre+For+Water+(ICWaR)/@13.017754,77.572614,14z/data=!4m5!3m4!1s0x0:0x6a432b714a8f5510!8m2!3d13.0159138!4d77.5682368?hl=en
             style: secondary
