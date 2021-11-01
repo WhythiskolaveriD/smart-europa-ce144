@@ -21,6 +21,7 @@ sections:
     padding_top: small
     padding_bottom: large
     has_border: true
+    recent_count: 3
   - type: form_section
     title: Inline Form
     title_align: center
