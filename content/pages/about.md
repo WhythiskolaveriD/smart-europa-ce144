@@ -2,7 +2,7 @@
 title: About
 sections:
   - type: hero_section
-    title: The team
+    title: Who are we?
     subtitle: >-
       we are a multidisciplinary team of curious individuals working to better
       understand the changes in our hydrosphere
