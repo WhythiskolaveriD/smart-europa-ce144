@@ -20,7 +20,7 @@ sections:
     background_color: primary
   - section_id: lorem-ipsum
     title: About
-    content: >
+    content: >+
       We are the Geodesy for Earth system science (GESS) research Group at
       ICWaR, IISC. Our group is interested in using Earth observation data for
       monitoring and understanding the changes in the Earth system. Our core
@@ -29,10 +29,6 @@ sections:
       for mapping various surface processes that related to climate change and
       human activities.
 
-
-
-
-      ![](/images/SLR_illust_global_processes.png)
     actions: []
     actions_position: bottom
     actions_width: fourty
