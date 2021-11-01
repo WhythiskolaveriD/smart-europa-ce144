@@ -28,6 +28,11 @@ sections:
       GNSS and altimetry, in tandem with other Earth observation datasets/models
       for mapping various surface processes that related to climate change and
       human activities.
+
+
+
+
+      ![](/images/SLR_illust_global_processes.png)
     actions: []
     actions_position: bottom
     actions_width: fourty
