@@ -13,7 +13,7 @@ sections:
           steric sea height changes, mass change, and solid Earth deformations,
           but only for trend signal and at global average scales. We are aiming
           at closing the sea level budget at smaller spatiotemporal scales.
-        image: images/about-3.jpg
+        image: /images/sea_level_review_fig.png
         image_alt: Top view of business meeting
         media_position: right
         media_width: fifty
