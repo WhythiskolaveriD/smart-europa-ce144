@@ -75,7 +75,7 @@ sections:
           a systems approach.
         actions:
           - label: Learn More
-            url: /style-guide
+            url: /blog
             style: primary
             has_icon: true
             icon: arrow-right
