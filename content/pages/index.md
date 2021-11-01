@@ -26,7 +26,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: About
     content: >
       We are the Geodesy for Earth system science (GESS) research Group at
       ICWaR, IISC. Our group is interested in using Earth observation data for
