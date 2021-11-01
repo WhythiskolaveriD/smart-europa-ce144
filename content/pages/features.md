@@ -19,10 +19,12 @@ sections:
         media_width: fifty
       - title: The water budget
         subtitle: Explaining the distribution of precipitation on land
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Being able to map the flow of water from the atmosphere to oceans
+          through land is essential for planning and management of freshwater.
+          We are yet to comprehensively close the water budget and understand
+          how it will evolve in a changing climate. We are trying to understand
+          it.
         video_embed_html: >-
           <iframe width="560" height="315"
           src="https://www.youtube.com/embed/aS1aPOOMQMk?modestbranding=1"
