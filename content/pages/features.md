@@ -27,7 +27,7 @@ sections:
           it.
         media_position: left
         media_width: fifty
-        image: /images/MScR_illust_fig.png
+        image: /images/MScR_illust_fig-dea991cc.png
       - title: downscaling GRACE
         subtitle: 'Donec nisl ligula, cursus id molestie vel. '
         content: >-
