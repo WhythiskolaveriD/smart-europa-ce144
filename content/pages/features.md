@@ -25,11 +25,6 @@ sections:
           We are yet to comprehensively close the water budget and understand
           how it will evolve in a changing climate. We are trying to understand
           it.
-        video_embed_html: >-
-          <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/aS1aPOOMQMk?modestbranding=1"
-          frameborder="0" allow="accelerometer; autoplay; encrypted-media;
-          gyroscope; picture-in-picture" allowfullscreen></iframe>
         media_position: left
         media_width: fifty
       - title: downscaling GRACE
