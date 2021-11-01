@@ -1,5 +1,5 @@
 ---
-title: Gustav Purpleson
+title: Bramha
 sections:
   - type: hero_section
     title: Bramha Dutt Vishwakarma
