@@ -23,6 +23,7 @@ sections:
             new_window: true
         actions_align: left
         actions_width: full-width
+        image: /images/phd.jpg
       - title: Postdocs
         title_align: left
         content: >+
