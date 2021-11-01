@@ -6,7 +6,6 @@ subtitle: >-
 date: '2020-06-02'
 categories:
   - content/data/categories/tutorials.yaml
-  - content/data/categories/category-zoa8krmsk.json
 tags:
   - content/data/tags/stackbit.yaml
   - content/data/tags/netlify.yaml
