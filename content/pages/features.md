@@ -8,10 +8,11 @@ sections:
     features:
       - title: sea level rise and its components
         subtitle: closing the budget
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          The observed sea level rise can be approximately explained by a sum of
+          steric sea height changes, mass change, and solid Earth deformations,
+          but only for trend signal and at global average scales. We are aiming
+          at closing the sea level budget at smaller spatiotemporal scales.
         image: images/about-3.jpg
         image_alt: Top view of business meeting
         media_position: right
