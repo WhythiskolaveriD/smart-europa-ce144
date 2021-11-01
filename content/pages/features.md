@@ -29,7 +29,7 @@ sections:
         media_width: fifty
         image: /images/MScR_illust_fig-dea991cc.png
       - title: downscaling GRACE
-        subtitle: GRACE products for local applications
+        subtitle: GRACE products for regional applications
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
