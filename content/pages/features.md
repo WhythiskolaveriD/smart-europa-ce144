@@ -18,7 +18,7 @@ sections:
         media_position: right
         media_width: fifty
       - title: The water budget
-        subtitle: Explaining the distribution of precipitation on land
+        subtitle: accounting of water
         content: >
           Being able to map the flow of water from the atmosphere to oceans
           through land is essential for planning and management of freshwater.
