@@ -3,13 +3,6 @@ title: Home
 sections:
   - type: hero_section
     title: Welcome to the webpage of GESS research group
-    content: >
-      Welcome to the webpage of the GESS research Group at ICWaR, IISC. Our
-      group is interested in using Earth observation data for monitoring and
-      understanding the changes in the Earth system. Our core expertise is in
-      processing and using geodetic datasets, such as GRACE, GNSS and altimetry,
-      in tandem with other Earth observation datasets/models for mapping various
-      surface processes that related to climate change and human activities.
     actions:
       - label: Our team
         url: /about
