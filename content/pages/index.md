@@ -49,10 +49,6 @@ sections:
   - type: features_section
     features:
       - title: Our Approach
-        subtitle: >-
-          It doesn't matter how beautiful your theory is, it doesn't matter how
-          smart you are. If it doesn't agree with experiment, it's wrong.
-          -Richard P. Feynman
         content: >
           Clever signal processing has been historically proven to provide novel
           insights. Looking at the same data, but from a different perspective
