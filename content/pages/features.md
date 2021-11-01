@@ -30,10 +30,13 @@ sections:
         image: /images/MScR_illust_fig-dea991cc.png
       - title: downscaling GRACE
         subtitle: GRACE products for regional applications
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          GRACE satellite mission has provided novel information about the water
+          mass redistribution near the Earth's surface, but only at large
+          spatial scales. To use this novel mission for local hydrological
+          applications, GRACE data must be downscaled with the help of prior
+          information. We are trying to produce a high-quality high-resolution
+          GRACE product for India.
         image: images/about-1.jpg
         image_alt: Happy co-workers
         media_position: right
