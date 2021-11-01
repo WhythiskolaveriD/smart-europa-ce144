@@ -1,8 +1,8 @@
 ---
 title: Interpreting water storage trends from GRACE
 subtitle: >-
-  Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique
-  senectus.
+  trends from short Earth observation timeseries can be misleading, a new metric
+  to better interpret the trends
 date: '2020-06-02'
 categories:
   - content/data/categories/tutorials.yaml
