@@ -65,7 +65,7 @@ sections:
           and GNSS time-series (visit our Publications section for references
           that go in more details).
         actions: []
-        image: images/classic/feature-1.png
+        image: /images/sp.jpg
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
