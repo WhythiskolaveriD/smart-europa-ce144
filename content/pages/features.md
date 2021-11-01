@@ -37,7 +37,7 @@ sections:
           applications, GRACE data must be downscaled with the help of prior
           information. We are trying to produce a high-quality high-resolution
           GRACE product for India.
-        image: images/about-1.jpg
+        image: /images/AMZ_fig.png
         image_alt: Happy co-workers
         media_position: right
         media_width: fifty
