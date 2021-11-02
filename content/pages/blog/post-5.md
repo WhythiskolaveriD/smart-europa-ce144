@@ -10,8 +10,8 @@ tags:
   - content/data/tags/stackbit.yaml
   - content/data/tags/netlify.yaml
 excerpt: >-
-  Short timeseries representing processes that may have signals from long-period
-  phenomenon
+  Trends from short timeseries representing processes that may have signals from
+  long-period phenomenon, often do not capture the severity of change.
 thumb_image: /images/Fig3_blog_TVR.jpg
 thumb_image_alt: Post 5 placeholder image
 image: /images/Fig3_blog_TVR.jpg
