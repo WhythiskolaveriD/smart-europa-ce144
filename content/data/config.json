@@ -143,18 +143,7 @@
             }
         ],
         "content": "&copy; Bramha Dutt Vishwakarma 2021",
-        "links": [
-            {
-                "label": "lorem-ipsum",
-                "url": "#",
-                "style": "link",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false
-            }
-        ]
+        "links": []
     },
     "announcement": {
         "has_anncmnt": true,
