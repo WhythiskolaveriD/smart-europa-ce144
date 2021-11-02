@@ -11,10 +11,10 @@ categories:
 tags:
   - content/data/tags/jamstack.yaml
   - content/data/tags/sourcebit.yaml
-excerpt: >-
-  Itaque hoc frequenter dici solet a vobis, non intellegere nos, quam dicat
-  Epicurus voluptatem. Sin kakan malitiam dixisses, ad aliud nos unum certum
-  vitium consuetudo Latina traduceret.
+excerpt: |-
+  We have emitted so much greenhouse gases that two of our frozen
+  continents are melting rapidly, adding so much mass to the oceans that the
+  shape of ocean floor is changing at a non-negligible rate
 thumb_image: images/classic/post-4.png
 thumb_image_alt: Post 4 placeholder image
 image: /images/fig_blog_EGU_OBD.png
