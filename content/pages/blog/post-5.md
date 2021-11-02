@@ -10,9 +10,8 @@ tags:
   - content/data/tags/stackbit.yaml
   - content/data/tags/netlify.yaml
 excerpt: >-
-  Estne, quaeso, inquam, sitienti in bibendo voluptas? Iam in altera
-  philosophiae parte. Quem Tiberina descensio festo illo die tanto gaudio
-  affecit, quanto.
+  Short timeseries representing processes that may have signals from long-period
+  phenomenon
 thumb_image: /images/Fig3_blog_TVR.jpg
 thumb_image_alt: Post 5 placeholder image
 image: /images/Fig3_blog_TVR.jpg
