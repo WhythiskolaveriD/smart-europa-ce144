@@ -10,8 +10,9 @@ tags:
   - content/data/tags/stackbit.yaml
   - content/data/tags/netlify.yaml
 excerpt: >-
-  Trends from short timeseries representing processes that may have signals from
-  long-period phenomenon, often do not capture the severity of change.
+  Trends from short timeseries, representing processes that may have a cycle
+  longer than the timeseries length, often do not capture the severity of
+  change.
 thumb_image: /images/Fig3_blog_TVR.jpg
 thumb_image_alt: Post 5 placeholder image
 image: /images/Fig3_blog_TVR.jpg
