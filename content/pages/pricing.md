@@ -49,7 +49,7 @@ sections:
         actions_align: left
         actions_width: full-width
         image: /images/intern.jpg
-      - title: lorem-ipsum
+      - title: Open positions
         title_align: left
         content: >-
           ## Lorem ipsum
