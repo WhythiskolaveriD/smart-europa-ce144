@@ -14,7 +14,7 @@ excerpt: >-
   magnitudine obruebantur. Duo Reges: constructio interrete.
 thumb_image: images/classic/post-1.png
 thumb_image_alt: Post 1 placeholder image
-image: images/classic/post-1.png
+image: /images/NASAISS.jpg
 image_alt: Post 1 placeholder image
 image_position: right
 seo:
