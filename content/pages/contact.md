@@ -55,6 +55,14 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
         actions_align: center
         image: /images/sm.jpg
         image_alt: Other queries icon
