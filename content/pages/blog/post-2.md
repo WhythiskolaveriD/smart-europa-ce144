@@ -14,7 +14,7 @@ tags:
 excerpt: >-
   Filtering is necessary for obtaining meaningful data from GRACE, but it
   suppresses the signal amplitude, changes its phase, and degrades the spatial
-  resolution. What can we do to reduce the sideeffects of filtering?
+  resolution. What can we do to reduce the side effects of filtering?
 thumb_image: images/classic/post-2.png
 thumb_image_alt: Post 2 placeholder image
 image: images/classic/post-2.png
