@@ -50,7 +50,6 @@ sections:
         actions_width: full-width
         image: /images/intern.jpg
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
