@@ -1,5 +1,5 @@
 ---
-title: 'Filtering damages GRACE signal quality, and we can counter it.'
+title: Filtering damages signal quality of GRACE products and we can counter it.
 date: '2021-10-20'
 author: content/data/team/hilary-ouse.yaml
 categories:
