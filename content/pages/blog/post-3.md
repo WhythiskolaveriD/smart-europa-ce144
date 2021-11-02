@@ -10,7 +10,10 @@ categories:
 tags:
   - content/data/tags/stackbit.yaml
   - content/data/tags/jamstack.yaml
-excerpt: GRACE data products available at
+excerpt: >-
+  GRACE data products are available at different resolutions, 3 degree, 2
+  degree, 1 degree and even 0.5 degree. So users often ask what is the spatial
+  resolution of the mission?
 thumb_image: /images/GRACEtrends.png
 thumb_image_alt: Post 3 placeholder image
 image: images/classic/post-3.png
