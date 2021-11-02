@@ -25,107 +25,73 @@ seo:
         content
 layout: page
 ---
+A. Tiwari, Arun G., B. D. Vishwakarma “Parameter importance assessment improves efficacy of machine learning methods for predicting snow avalanche sites in Leh-Manali Highway, India”, (2021), Science of the Total Environment, 794, , doi: 10.1016/j.scitotenv.2021.148738.
 
-This is a paragraph. Malesuada bibendum arcu vitae elementum curabitur vitae nunc sed. Fringilla urna porttitor rhoncus dolor purus. Consectetur purus ut faucibus pulvinar. Nullam non nisi est sit. Tellus in metus vulputate eu scelerisque felis. Nunc congue nisi vitae suscipit tellus mauris. Phasellus egestas tellus rutrum tellus pellentesque eu tincidunt. Fermentum iaculis eu non diam phasellus vestibulum. Faucibus turpis in eu mi bibendum neque egestas congue.
+<!---->
 
-# This is an H1
-## This is an H2
-### This is an H3
-#### This is an H4
-##### This is an H5
-###### This is an H6
+B. D. Vishwakarma, J. Zhang, and N. Sneeuw “Downscaling GRACE total water storage change using partial least squares regression”, (2021), Nature Scientific Data, 8, 95, doi: 10.1038/s41597-021-00862-6.
 
-## Quoting
+<!---->
 
-Nullam hendrerit dictum vehicula. Nunc nec tortor et dui vestibulum venenatis. Donec mattis ligula ac efficitur lacinia.
+B. D. Vishwakarma, P. Bates, N. Sneeuw, R. M.Westaway, J. L. Bamber “Re-assessing global water storage trends from GRACE time series”, (2020), Env. Res. Letters, 16(3), 034005, doi: 10.1088/1748-9326/abd4a9.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Donec pretium vulputate sapien nec sagittis aliquam. Turpis massa sed elementum tempus egestas sed sed. Orci a scelerisque purus semper eget duis at tellus at. Lacus luctus accumsan tortor posuere ac. 
+<!---->
 
-> Ipsum dolor sit amet consectetur adipiscing elit ut aliquam purus. Ultrices sagittis orci a scelerisque purus semper eget duis. Pharetra pharetra massa massa ultricies. Felis eget nunc lobortis mattis aliquam.
+B. D. Vishwakarma “Monitoring Droughts from GRACE”, (2020), Frontiers in Env. Sci., 8, 274. doi: 10.1016/j.rsase.2020.100361
 
-In cursus turpis massa tincidunt. Tempor nec feugiat nisl pretium. Odio aenean sed adipiscing diam. Ut aliquam purus sit amet luctus venenatis lectus magna fringilla. Justo laoreet sit amet cursus sit amet dictum. Turpis tincidunt id aliquet risus feugiat in ante metus.
+<!---->
 
-In non tempus urna, non blandit nisl. Phasellus aliquam, tellus et lobortis dictum, justo turpis placerat est, sed luctus nunc elit eu odio. Phasellus imperdiet, nulla a elementum tempor, nisi elit tincidunt dolor, eget venenatis metus libero et elit.
+A. Balha, B. D. Vishwakarma, C. Singh, S. Pandey “Predicting impact of urbanization on water resources in megacity, Delhi”, (2020), Remote Sensing Applications: Society and Environment, 20, 100361, doi: 10.1016/j.rsase.2020.100361.
 
-Vivamus tempus ornare urna, eget imperdiet quam venenatis ac. Donec fermentum massa id aliquet vulputate. Nam vestibulum ornare est, sed tincidunt mauris interdum a. In hac habitasse platea dictumst. Pellentesque sit amet arcu sed risus vehicula fermentum sit amet a neque. Sed imperdiet lacinia magna sit amet dapibus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean non purus a quam placerat luctus. Proin orci risus, lobortis ut dictum at, gravida at nulla. 
+<!---->
 
-## Unordered and Ordered Lists
+P. Saemian, O. Elmi, B. D. Vishwakarma, M. J. Tourian, S. Roohi, M. Dashtabadi, and N. Sneeuw “Analysing the Lake Urmia restoration progress using ground-based and spaceborne observations”, (2020), Science of the Total Environment, 721, 139857, doi: 10.1016/j.scitotenv.2020.139857.
 
-+ Donec non tortor in arcu mollis feugiat
-+ Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-+ Donec id eros eget quam aliquam gravida
-+ Vivamus convallis urna id felis
-+ Nulla porta tempus sapien
+<!---->
 
-***
+B. D. Vishwakarma, S. Royston, R. E. M. Riva, R. M. Westaway, J. L. Bamber “Sea level budgets should account for ocean bottom deformation”, (2020), Geophysical Research Letters, 47, e2019GL086492, doi: 10.1029/2019GL086492.
 
-1. Donec non tortor in arcu mollis feugiat
-2. Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-3. Donec id eros eget quam aliquam gravida
-4. Vivamus convallis urna id felis
-5. Nulla porta tempus sapien
+<!---->
 
-## Code Blocks
+S. Royston, B. D. Vishwakarma, R. M. Westaway, J. Rougier, Z. Sha, and J. L. Bamber “Can we resolve the basin scale sea level budget from GRACE ocean mass”, (2020), JGR Oceans, 125, e2019JC015535, doi: 10.1029/2019JC015535.
 
-Blocks of code are either fenced by lines with three back-ticks, or are indented with four spaces.
+<!---->
 
-```
-let sequence = [1, 1, 2, 3, 5, 8, 13];
-for (let i = 0; i < sequence.length; i++) {
-  console.log(sequence[i]);
-}
-```
+A. Shepherd, E. Ivins, E. Rignot, B. Smith, M. van den Broeke, I. Velicogna, P. Whitehouse, K. Briggs, I. Joughin, G. Krinner, S. Nowicki, T. Payne, T. Scambos, N. Schlegel, G. A, C. Agosta, A. Ahlstrøm, G. Babonis, V. Barletta, A. Blazquez, J. Bonin, B. Csatho, R. Cullather, D. Felikson, X. Fettweis, R. Forsberg, H. Gallee, A. Gardner, L. Gilbert, A. Groh, B. Gunter, E. Hanna, C. Harig, V. Helm, A. Horvath, M. Horwath, S. Khan, K. K. Kjeldsen, H. Konrad, P. Langen, B. Lecavalier, B. Loomis, S. Luthcke, M. McMillan, D.Melini, S. Mernild, Y. Mohajerani, P. Moore, J. Mouginot, G. Moyano, A. Muir, T. Nagler, G. Nield, J. Nilsson, B. Noel, I. Otosaka, M. E. Pattle, W. R. Peltier, N. Pie, R. Rietbroek, H. Rott, L. Sandberg-Sørensen, I. Sasgen, H. Save, B. Scheuchl, E.
+Schrama, L. Schr¨oder, K. Seo, S. Simonsen, T. Slater, G. Spada, T. Sutterley, M. Talpe, L. Tarasov, W. Jan van de Berg,W. van derWal, M. vanWessem, B. D. Vishwakarma, D.Wiese, B.Wouters, and J.Wuite “Mass balance of the Greenland Ice Sheet from 1992 to 2018”, (2020), Nature, 579, 233–239, doi: 10.1038/s41586-019-1855-2.
 
-## Inline Elements
+<!---->
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
+A. Tiwari, A. Ahuja, B. D. Vishwakarma, and K. Jain “Groundwater Potential Zone (GWPZ) for Urban Development Site Suitability Analysis in Bhopal, India”, (2019), Journal of the Indian Society of Remote Sensing, 47, 1793-1815, doi: 10.1007/s12524-019-01027-0.
 
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
+<!---->
 
-Combined emphasis with **asterisks and _underscores_**.
+F. Sabzehee, V. Nafisi, S. Iran Pour, and B. D. Vishwakarma “Analysis of the precipitation climate signal using empirical mode decomposition (EMD) over the Caspian catchment area”, (2019), The International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences, XLII-4/W18, 923–929, doi:10.5194/isprs-archives-XLII-4-W18-923-2019.
 
-Strikethrough uses two tildes. ~~Scratch this.~~
+<!---->
 
-Inline `code` with `back-ticks around` it.
+F. Sabzehee, V. Nafisi, S. Iran Pour, and B. D. Vishwakarma “Investigation of the correlation between GRACE TWS and soil moisture in Sarakhs catchment”, (2019), The International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences, XLII-4/W18, 931–934, doi:10.5194/isprs-archives-XLII-4-W18-931-2019.
 
-This is <mark>marked or highlighted</mark> text.
+<!---->
 
-This is [an example](http://example.com) link.
+N. Bhattarai, K. Mallick, J. Stuart, B. D. Vishwakarma, R. Niraula, S. Sen, and M. Jain “An automated multimodel evapotranspiration mapping framework using remotely sensed and reanalysis data”, (2019), Remote Sensing of Environment, 229, 69–92, doi: 10.1016/j.rse.2019.04.026.
 
-## Tables
+<!---->
 
-<div class="responsive-table">
-  <table>
-      <caption>Table with thead, tfoot, and tbody</caption>
-    <thead>
-      <tr>
-        <th>Header content</th>
-        <th>Header content</th>
-        <th>Header content</th>
-        <th>Header content</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Body content</td>
-        <td>Body content</td>
-        <td>Body content</td>
-        <td>Body content</td>
-      </tr>
-      <tr>
-        <td>Body content</td>
-        <td>Body content</td>
-        <td>Body content</td>
-        <td>Body content</td>
-      </tr>
-    </tbody>
-    <tfoot>
-      <tr>
-        <td>Footer content</td>
-        <td>Footer content</td>
-    <td>Footer content</td>
-    <td>Footer content</td>
-      </tr>
-    </tfoot>
-  </table>
-</div>
+A. Shepherd, E. Ivins, E. Rignot, B. Smith, M. van den Broeke, I. Velicogna, P. Whitehouse, K. Briggs, I. Joughin, G. Krinner, S. Nowicki, T. Payne, T. Scambos, N. Schlegel, G. A, C. Agosta, A. Ahlstrøm, G. Babonis, V. Barletta, A. Blazquez, J. Bonin, B. Csatho, R. Cullather, D. Felikson, X. Fettweis, R. Forsberg, H. Gallee, A. ardner, L. Gilbert, A. Groh, B. Gunter, E. Hanna, C. Harig, V. Helm, A. Horvath, M. Horwath, S. Khan, K. K. Kjeldsen, H. Konrad, P. Langen, B. Lecavalier, B. Loomis, S. Luthcke, M. McMillan, D.Melini, S. Mernild, Y. Mohajerani, P. Moore, J. Mouginot, G. Moyano, A. Muir, T. Nagler, G. Nield, J. Nilsson, B. Noel, I. Otosaka, M.E. Pattle, W. R. Peltier, N. Pie, R. Rietbroek, H. Rott, L. Sandberg-Sørensen, I. Sasgen, H. Save, B. Scheuchl, E. Schrama, L. Schr¨oder, K. Seo, S. Simonsen, T. Slater, G. Spada, T. Sutterley, M. Talpe, L. Tarasov, W. Jan van de Berg,W. van derWal, M. vanWessem, B. D. Vishwakarma, D.Wiese, and B.Wouters “Mass balance of the Antarctic Ice Sheet from 1992 to 2017”, (2018), Nature, 558, 219-222, doi: 10.1038/s41586-018-0179-y.
+
+<!---->
+
+B. D. Vishwakarma, B. Devaraju, and N. Sneeuw “What is the spatial resolution of GRACE products for hydrology?”, (2018), Remote Sensing, 10, 582, doi: 10.3390/rs10060852.
+
+<!---->
+
+B. D. Vishwakarma, M. Horwath, B. Devaraju, A. Groh, and N. Sneeuw “A data-driven approach for repairing the hydrological catchment signal damage due to filtering of GRACE products”, (2017), Water Resources Research, 53, 9824– 9844, doi:10.1002/2017WR021150.
+
+<!---->
+
+B. D. Vishwakarma, B. Devaraju, and N. Sneeuw “Minimizing the effects of filtering on catchment scale GRACE solutions”, (2016),Water Resources Research, 52, 5868–5890, doi:10.1002/2016WR018960.
+
+<!---->
+
+B. D. Vishwakarma, K. Jain, N. Sneeuw, and B. Devaraju “Mumbai 2005, Bihar 2008 Flood Reflected in Mass Changes Seen by GRACE Satellites”, (2013), Journal of Indian Society of Remote Sensing, 41(3), 687–695, doi:10.1007/s12524-012-0256-x.
