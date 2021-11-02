@@ -12,8 +12,9 @@ tags:
   - content/data/tags/jamstack.yaml
   - content/data/tags/netlify.yaml
 excerpt: >-
-  Quae diligentissime contra Aristonem dicuntur a Chryippo. Videamus igitur
-  sententias eorum, tum ad verba redeamus. Levatio igitur vitiorum magna.
+  Filtering is necessary for obtaining meaningful data from GRACE, but it
+  suppresses the signal amplitude, changes its phase, and degrades the spatial
+  resolution. What can we do to reduce the sideeffects of filtering?
 thumb_image: images/classic/post-2.png
 thumb_image_alt: Post 2 placeholder image
 image: images/classic/post-2.png
