@@ -12,7 +12,7 @@ tags:
 excerpt: >-
   Trends from short timeseries representing processes that may have signals from
   long-period phenomenon, often do not capture the severity of change.
-thumb_image: /images/Fig3_blog_TVR.jpg
+thumb_image: /images/fig_blog_EGU_OBD.png
 thumb_image_alt: Post 5 placeholder image
 image: /images/Fig3_blog_TVR.jpg
 image_alt: Post 5 placeholder image
