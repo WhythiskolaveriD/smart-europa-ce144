@@ -1,5 +1,5 @@
 ---
-title: Publications from this lab
+title: Publications from team members
 seo:
   title: Theme Style Guide
   description: A reference for suggested typographic treatment and styles for your content
