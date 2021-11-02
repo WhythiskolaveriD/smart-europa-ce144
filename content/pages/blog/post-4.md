@@ -3,7 +3,7 @@ title: Sea level rise is changing the sea floor
 subtitle: >-
   Solid Earth responds to changes in loading, and right now sea level rise is
   making oceans heavier, which is pushing the ocean bottom down.
-date: '2020-05-30'
+date: '2021-11-02'
 author: content/data/team/dianne-ameter.yaml
 categories:
   - content/data/categories/tutorials.yaml
