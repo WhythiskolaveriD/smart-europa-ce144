@@ -4,7 +4,7 @@ subtitle: >-
   Gravity Recovery And Climate Experiment (GRACE) provided an estimate of
   monthly mass change near the surface of the Earth: a dataset that has been
   used in nearly all the disciplines of the Earth sciences.
-date: '2020-04-16'
+date: '2021-11-02'
 author: content/data/team/dianne-ameter.yaml
 categories:
   - content/data/categories/tutorials.yaml
