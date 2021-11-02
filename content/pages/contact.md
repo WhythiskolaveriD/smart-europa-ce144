@@ -50,7 +50,7 @@ sections:
         content_align: center
         actions:
           - label: Get Support
-            url: /general-enquiries
+            url: 'https://twitter.com/Bramha_tweets'
             style: primary
             has_icon: true
             icon: arrow-right
