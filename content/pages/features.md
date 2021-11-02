@@ -23,8 +23,7 @@ sections:
           Being able to map the flow of water from the atmosphere to oceans
           through land is essential for planning and management of freshwater.
           We are yet to comprehensively close the water budget and understand
-          how it will evolve in a changing climate. We are trying to understand
-          it.
+          how it will evolve in a changing climate.
         media_position: left
         media_width: fifty
         image: /images/MScR_illust_fig-dea991cc.png
