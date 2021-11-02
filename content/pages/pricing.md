@@ -49,7 +49,7 @@ sections:
         actions_align: left
         actions_width: full-width
         image: /images/intern.jpg
-      - title: Open positions
+      - title: Project staff
         title_align: left
         content: |
           There are no open positions at this moment.
