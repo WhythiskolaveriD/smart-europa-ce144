@@ -46,15 +46,11 @@ sections:
       - title: Our Approach
         content: >
           Clever signal processing has been historically proven to provide novel
-          insights. Looking at the same data, but from a different perspective
-          can help us pull out patterns that tend to explain observed complex
-          physical mechanisms and their spatiotemporal behaviour. We aspire to
-          develop novel data-driven approaches for understanding natural
-          phenomenon. We have recently developed a method to estimate signals
-          from glacial isostatic adjustment (response of the solid Earth to
-          galcial cycles) and Present day mass change using GRACE satellite data
-          and GNSS time-series (visit our Publications section for references
-          that go in more details).
+          insights. Looking at the same data, but after transforming it or
+          processing it can help us extract patterns that tend to explain
+          observed complex physical mechanisms and their spatiotemporal
+          behaviour. We aspire to develop novel data-driven approaches for
+          understanding natural phenomenon.
         actions: []
         image: /images/sp.jpg
         image_alt: Feature 1 placeholder image
