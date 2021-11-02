@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Who are we?
     subtitle: >-
-      we are a multidisciplinary team of curious individuals working to better
-      understand the changes in our hydrosphere
+      we are a multidisciplinary team of curious individuals working together to
+      better understand the changes in our hydrosphere
     align: center
     background_color: secondary
   - type: features_section
