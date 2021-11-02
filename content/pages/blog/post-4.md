@@ -14,7 +14,7 @@ excerpt: |-
   We have emitted so much greenhouse gases that two of our frozen
   continents are melting rapidly, adding so much mass to the oceans that the
   shape of ocean floor is changing at a non-negligible rate
-thumb_image: images/classic/post-4.png
+thumb_image: /images/fig_blog_EGU_OBD.png
 thumb_image_alt: Post 4 placeholder image
 image: /images/fig_blog_EGU_OBD.png
 image_alt: Post 4 placeholder image
