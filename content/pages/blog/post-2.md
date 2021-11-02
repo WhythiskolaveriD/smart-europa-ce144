@@ -7,7 +7,6 @@ date: '2020-05-25'
 author: content/data/team/hilary-ouse.yaml
 categories:
   - content/data/categories/news.yaml
-  - content/data/categories/general.yaml
 tags:
   - content/data/tags/jamstack.yaml
   - content/data/tags/netlify.yaml
