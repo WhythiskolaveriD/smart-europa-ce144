@@ -1,8 +1,8 @@
 ---
 title: Sea level rise is changing the sea floor
 subtitle: >-
-  Negat esse eam, inquit, propter se expetendam. Ergo, si semel tristior
-  effectus est, hilara vita amissa est.
+  Solid Earth responds to changes in loading, and right now sea level rise is
+  making oceans heavier, which is changing the shape of the ocean bottom.
 date: '2020-05-30'
 author: content/data/team/dianne-ameter.yaml
 categories:
