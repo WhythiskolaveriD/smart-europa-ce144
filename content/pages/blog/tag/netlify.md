@@ -1,5 +1,5 @@
 ---
-title: Netlify
+title: signal
 sections:
   - type: hero_section
     title: Netlify
