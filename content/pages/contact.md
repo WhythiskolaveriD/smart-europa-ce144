@@ -49,7 +49,7 @@ sections:
           You can follow us on twitter, and researchgate.
         content_align: center
         actions:
-          - label: Get Support
+          - label: twitter page
             url: 'https://twitter.com/Bramha_tweets'
             style: primary
             has_icon: true
