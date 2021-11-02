@@ -1,5 +1,5 @@
 ---
-title: signal
+title: signal processing
 sections:
   - type: hero_section
     title: Netlify
