@@ -10,8 +10,8 @@ categories:
   - content/data/categories/tutorials.yaml
   - content/data/categories/general.yaml
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ea mala virtuti
-  magnitudine obruebantur. Duo Reges: constructio interrete.
+  Launched in 2002, this satellite mission has mapped temporal changes in
+  gravity, which has helped many disciplines of Earth sciences.
 thumb_image: /images/graceorbit.png
 thumb_image_alt: Post 1 placeholder image
 image: /images/graceorbit.png
