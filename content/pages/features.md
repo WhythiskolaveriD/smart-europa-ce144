@@ -34,7 +34,7 @@ sections:
           mass redistribution near the Earth's surface, but only at large
           spatial scales. To use this novel mission for local hydrological
           applications, GRACE data must be downscaled with the help of prior
-          information. We are trying to produce a high-quality high-resolution
+          information. We are working to produce a high-quality high-resolution
           GRACE product for India.
         image: /images/AMZ_fig.png
         image_alt: Happy co-workers
