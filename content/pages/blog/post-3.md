@@ -1,5 +1,5 @@
 ---
-title: The spatial resolution of GRACE products?
+title: The spatial resolution of GRACE products
 subtitle: >-
   Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
   equidem satis, inquit, me dixisse.
