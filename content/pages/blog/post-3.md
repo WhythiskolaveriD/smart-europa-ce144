@@ -13,7 +13,7 @@ excerpt: >-
   resolution of the mission?
 thumb_image: /images/GRACEtrends.png
 thumb_image_alt: Post 3 placeholder image
-image: images/classic/post-3.png
+image: /images/remotesensing-10-00852-g001-550.webp
 image_alt: Post 3 placeholder image
 image_position: top
 seo:
