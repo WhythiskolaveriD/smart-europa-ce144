@@ -48,12 +48,26 @@ seo:
       relativeUrl: true
 layout: post
 ---
+Sea level rise is one of most dreadful consequences of the anthropogenic (caused by humans) global warming. It is estimated that the loss of coastal infrastructure alone would cost the world economy more than 1 trillion dollars per year by 2100. Researchers are closely monitoring changes in the sea level and trying to understand the physical processes driving these changes. Many studies have been able to explain the physical processes hat drive the global mean sea level change over the last few decades. The major takeaway from these studies was that in the second half of the 20th Century, steric sea level change (thermal expansion of oceans and salinity changes) was the dominant driver but in the last two decades mass change (due to addition of water from melting glaciers and ice-sheets on land) has significantly increased and is now the dominant component .
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Teneo, inquit, finem illi videri nihil dolere. Quid est enim aliud esse versutum. Age, inquies, ista parva sunt. Verum hoc idem saepe faciamus. Atque ab his initiis profecti omnium virtutum et originem et progressionem persecuti sunt. Duo Reges: constructio interrete. Itaque eos id agere, ut a se dolores, morbos, debilitates repellant. Estne, quaeso, inquam, sitienti in bibendo voluptas? Iam in altera philosophiae parte. Quem Tiberina descensio festo illo die tanto gaudio affecit, quanto L.
+But additionally our solid Earth is not as rigid as it may seem. It is visco-elastic, which means when subjected to external force, it deforms, and when this external force is removed it resumes its shape, like a tennis ball. Since ice sheets (Greenland and Antarctica) are losing mass and oceans are gaining mass, Earth surface beneath the ice-sheets are slowly moving upward and the ocean bottom is going down due to changes in the surface mass (load). This change in the shape of the ocean floor is usually an order of magnitude smaller than the rate of change in ocean mass. Since the mass component of sea level rise was relatively small in the last half of the 20th century, OBD was negligible, but not anymore.
+The rate of sea level rise in the last two decades in approximately 3 mm/yr, out of which mass change constitutes 1.8 mm/yr, steric is 1.1 mm/yr and OBD is 0.1 mm/yr (see <https://doi.org/10.1029/2019GL086492> for more details).
 
-- Restinguet citius, si ardentem acceperit.
-- Te enim iudicem aequum puto, modo quae dicat ille bene noris.
-- Quid, quod homines infima fortuna, nulla spe rerum gerendarum, opifices denique delectantur historia?
-- Quo minus animus a se ipse dissidens secumque discordans gustare partem ullam liquidae voluptatis et liberae potest.
 
-**Quippe: habes enim a rhetoribus;** Vos autem cum perspicuis dubia debeatis illustrare, dubiis perspicua conamini tollere. Hoc dixerit potius Ennius: Nimium boni est, cui nihil est mali. Sic consequentibus vestris sublatis prima tolluntur. Negat esse eam, inquit, propter se expetendam. Ergo, si semel tristior effectus est, hilara vita amissa est.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
