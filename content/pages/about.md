@@ -83,11 +83,13 @@ sections:
         actions_align: left
         actions_width: auto
       - title_align: left
-        content: |2+
-               ![](/images/ICWaR-IISc-1cc817de.png)
+        content: >
 
-          ![](/images/iisclogo.png)
 
+
+
+          ![](/images/iisclogo.png)                 
+          ![](/images/ICWaR-IISc-6ae34cc8.png)   
         content_align: left
         actions: []
         actions_align: left
