@@ -1,6 +1,6 @@
 ---
 title: GRACE satellite mission
-subtitle: Gravity Recovery And Climate Experiment satellite mission
+subtitle: Gravity Recovery And Climate Experiment (GRACE) satellite mission
 date: '2020-04-16'
 author: content/data/team/dianne-ameter.yaml
 categories:
