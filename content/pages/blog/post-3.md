@@ -1,6 +1,6 @@
 ---
 title: The spatial resolution of GRACE products
-date: '2020-05-28'
+date: '2020-05-02'
 author: content/data/team/gustav-purpleson.yaml
 categories:
   - content/data/categories/general.yaml
