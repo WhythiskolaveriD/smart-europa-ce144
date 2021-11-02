@@ -7,7 +7,6 @@ subtitle: >-
 date: '2021-10-10'
 author: content/data/team/dianne-ameter.yaml
 categories:
-  - content/data/categories/tutorials.yaml
   - content/data/categories/general.yaml
 excerpt: >-
   Launched in 2002, this satellite mission has mapped temporal changes in
