@@ -3,7 +3,7 @@ title: 'Filtering damages GRACE signal quality, and we can counter it.'
 subtitle: >-
   Idemque diviserunt naturam hominis in animum et corpus. Si enim ad populum me
   vocas, eum.
-date: '2020-10-20'
+date: '2021-10-20'
 author: content/data/team/hilary-ouse.yaml
 categories:
   - content/data/categories/news.yaml
