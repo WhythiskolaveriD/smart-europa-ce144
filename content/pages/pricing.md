@@ -29,8 +29,7 @@ sections:
         content: >
           Are you looking for opportunities to work as an independent
           researcher? If you have finished your PhD or if you are about to, and
-          your research interest matches with ours, please write to us. We will
-          support your application for various available fellowships.
+          your research interest matches with ours, please write to us.
         content_align: left
         actions:
           - label: Postdoc @ IISc
