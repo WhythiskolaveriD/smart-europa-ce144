@@ -20,15 +20,14 @@ sections:
     background_color: primary
   - section_id: lorem-ipsum
     title: About
-    content: >+
+    content: >
       We are the Geodesy for Earth system science (GESS) research Group at
       ICWaR, IISC. Our group is interested in using Earth observation data for
       monitoring and understanding the changes in the Earth system. Our core
       expertise is in processing and using geodetic datasets, such as GRACE,
       GNSS and altimetry, in tandem with other Earth observation datasets/models
-      for mapping various surface processes that related to climate change and
-      human activities.
-
+      for mapping various surface processes that are related to climate change
+      and human activities.
     actions: []
     actions_position: bottom
     actions_width: fourty
