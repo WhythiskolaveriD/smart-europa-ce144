@@ -57,7 +57,7 @@ sections:
             icon_position: right
           - label: Researchgate
             url: 'https://www.researchgate.net/profile/Bramha-Vishwakarma'
-            style: primary
+            style: secondary
             has_icon: false
             icon: arrow-right
             icon_position: right
