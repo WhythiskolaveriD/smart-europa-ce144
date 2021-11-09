@@ -152,6 +152,6 @@
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
     },
-    "domain": "https://gess-at-iisc.ac.in",
+    "domain": "https://gess-at-iisc.netlify.app",
     "favicon": "/images/logoGESS-251c2eb7.jpg"
 }
