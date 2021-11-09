@@ -119,7 +119,7 @@ seo:
       value: B. D. Vishwakarma's research group
       keyName: property
     - name: 'og:description'
-      value: The preview of the DIY theme
+      value: GESS research group at IISc
       keyName: property
     - name: 'og:image'
       value: images/diy-preview.png
