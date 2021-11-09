@@ -109,7 +109,7 @@ sections:
     align: center
     background_color: secondary
 seo:
-  title: Stackbit DIY Theme
+  title: B D Vishwakarma's research group
   description: The preview of the DIY theme
   extra:
     - name: 'og:type'
