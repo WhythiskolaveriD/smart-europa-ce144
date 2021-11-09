@@ -110,7 +110,7 @@ sections:
     background_color: secondary
 seo:
   title: B D Vishwakarma's research group
-  description: The preview of the DIY theme
+  description: GESS research group at IISc
   extra:
     - name: 'og:type'
       value: website
