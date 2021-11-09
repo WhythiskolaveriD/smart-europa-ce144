@@ -85,7 +85,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Contact
+      value: GESS research group
       keyName: property
     - name: 'og:description'
       value: This is the contact page
