@@ -88,7 +88,7 @@ seo:
       value: GESS research group
       keyName: property
     - name: 'og:description'
-      value: This is the contact page
+      value: This is Bramha Dutt Vishwakarma's research group
       keyName: property
     - name: 'twitter:card'
       value: summary
