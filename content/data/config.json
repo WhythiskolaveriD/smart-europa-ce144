@@ -50,6 +50,16 @@
                 "url": "http://www.icwar.iisc.ac.in/",
                 "style": "primary",
                 "new_window": true
+            },
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false
             }
         ]
     },
