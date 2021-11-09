@@ -109,7 +109,7 @@ sections:
     align: center
     background_color: secondary
 seo:
-  title: B D Vishwakarma's research group
+  title: B. D. Vishwakarma's research group
   description: GESS research group at IISc
   extra:
     - name: 'og:type'
