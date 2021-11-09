@@ -122,7 +122,7 @@ seo:
       value: GESS research group at IISc
       keyName: property
     - name: 'og:image'
-      value: images/diy-preview.png
+      value: /images/logoGESS-750ae5b4.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
