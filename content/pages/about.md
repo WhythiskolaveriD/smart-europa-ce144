@@ -9,7 +9,7 @@ sections:
     align: center
     background_color: primary
     background_image: /images/banner.jpeg
-    background_image_opacity: 100
+    background_image_opacity: 50
   - type: features_section
     features:
       - title: Bramha Dutt Vishwakarma
