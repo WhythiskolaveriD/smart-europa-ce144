@@ -75,7 +75,7 @@ sections:
     enable_cards: true
     align: center
     padding_top: none
-    padding_bottom: large
+    padding_bottom: none
     background_color: secondary
 seo:
   title: Contact
