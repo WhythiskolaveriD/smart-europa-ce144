@@ -74,7 +74,7 @@ sections:
     grid_gap_vert: medium
     enable_cards: true
     align: center
-    padding_top: large
+    padding_top: none
     padding_bottom: large
     background_color: secondary
 seo:
