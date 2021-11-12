@@ -76,7 +76,7 @@ sections:
     align: center
     padding_top: large
     padding_bottom: large
-    background_color: primary
+    background_color: secondary
 seo:
   title: Contact
   description: This is the contact page
