@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Want to join us?
     align: center
-    padding_top: large
+    padding_top: none
     padding_bottom: small
     subtitle: Research is creating new knowledge.  - Neil Armstrong
   - type: grid_section
