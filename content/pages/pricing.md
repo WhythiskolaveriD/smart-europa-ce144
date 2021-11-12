@@ -7,6 +7,7 @@ sections:
     padding_top: none
     padding_bottom: none
     subtitle: Research is creating new knowledge.  - Neil Armstrong
+    background_color: primary
   - type: grid_section
     grid_items:
       - title: PhD positions
