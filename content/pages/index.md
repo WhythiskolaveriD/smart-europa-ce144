@@ -13,7 +13,7 @@ sections:
     image: /images/216C93DC10B7266F-4273defc.jpeg
     image_alt: Hero section placeholder image
     media_position: left
-    media_width: sixty
+    media_width: fourty
     align: left
     padding_top: none
     padding_bottom: none
