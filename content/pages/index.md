@@ -10,7 +10,7 @@ sections:
       - label: publications
         url: /style-guide
         style: secondary
-    image: /images/banner.jpeg
+    image: /images/216C93DC10B7266F-4273defc.jpeg
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
