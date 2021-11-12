@@ -5,7 +5,7 @@ sections:
     title: Get in touch
     subtitle: Have a question? Want to collaborate or join us?
     align: center
-    padding_top: small
+    padding_top: none
     padding_bottom: small
     has_border: true
     background_color: none
