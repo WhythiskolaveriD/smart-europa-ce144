@@ -8,7 +8,7 @@ sections:
     padding_top: none
     padding_bottom: none
     has_border: true
-    background_color: none
+    background_color: primary
   - type: grid_section
     grid_items:
       - title: write to us
