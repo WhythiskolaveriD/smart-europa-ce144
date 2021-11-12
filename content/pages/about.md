@@ -8,6 +8,7 @@ sections:
       better understand the changes in our hydrosphere
     align: center
     background_color: secondary
+    image: /images/banner.jpeg
   - type: features_section
     features:
       - title: Bramha Dutt Vishwakarma
