@@ -55,7 +55,7 @@ sections:
         actions: []
         image: /images/sp.jpg
         image_alt: Feature 1 placeholder image
-        media_position: right
+        media_position: bottom
         media_width: fifty
       - title: Why our approach?
         content: >
