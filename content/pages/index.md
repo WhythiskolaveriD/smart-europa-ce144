@@ -41,6 +41,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: cta_section
+    background_image: /images/banner.jpeg
   - type: features_section
     features:
       - title: Our Approach
