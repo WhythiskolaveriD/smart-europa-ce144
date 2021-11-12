@@ -7,7 +7,7 @@ sections:
       we are a multidisciplinary team of curious individuals working together to
       better understand the changes in our hydrosphere
     align: center
-    background_color: secondary
+    background_color: primary
     background_image: /images/banner.jpeg
     background_image_opacity: 100
   - type: features_section
