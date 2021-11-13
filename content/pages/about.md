@@ -43,10 +43,7 @@ sections:
         media_width: fifty
       - title: Vivek Yadav
         subtitle: PhD student
-        content: |
-          my bio
-
-          contact: viveky@iisc.ac.in
+        content: "Hello, I am a PhD student in the GESS group at ICWaR, IISc. I am from the Ghazipur district of eastern Uttar Pradesh. I completed my bachelor’s in civil engineering from BIET, Jhansi. In my B. Tech project I designed a Raw Water Treatment Plant for the Institute. As a seminar project, I looked into the impacts of Farakka Barrage & Institutional decisions on annual flooding in the Bihar state. Besides, I like reading non-fiction books and all outdoor sports.\n\n\_My research interests:\n\n*   Hydro-Climatology\n\n<!---->\n\n*   Hydrology\n\n<!---->\n\n*   Remote Sensing\n\n\_\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHello, I, Vivek Kumar Yadav, am a PhD student at the\nIndian Institute of Science Bangalore (IISc Bangalore) in the\nInter-Disciplinary Centre for Water Research (ICWaR) department.\n\n\_\n\nI am from the Ghazipur district of eastern Uttar\nPradesh. I completed my bachelor’s in civil engineering from BIET, Jhansi. In\nmy B. Tech project I designed a Raw Water Treatment Plant for the Institute. As\na seminar project, I looked into the impacts of Farakka Barrage &\nInstitutional decisions on annual flooding in the Bihar state. Besides, I like\nreading non-fiction books and all outdoor sports.\n\n\_\n\nMy research interests:\n\n·\_\_\_\_\_\_\nHydro-Climatology\n\n·\_\_\_\_\_\_\nHydrology\n\n·\_\_\_\_\_\_\nRemote Sensing\n\n\_\n\ncontact: viveky@iisc.ac.in\n"
         image: /images/vivek.jpg
         image_alt: People in a conference room
         media_position: left
