@@ -17,7 +17,7 @@ sections:
         image_alt: Top view of business meeting
         media_position: right
         media_width: fifty
-      - title: The water budget
+      - title: the water budget
         subtitle: accounting every drop
         content: >
           Being able to map the flow of water from the atmosphere to oceans
