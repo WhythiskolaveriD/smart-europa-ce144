@@ -69,7 +69,7 @@ sections:
 
 
           contact: iqrashafi@iisc.ac.in
-        image: /images/iqra.jpg
+        image: /images/Pic-92848ac3.PNG
         image_alt: Happy co-workers
         media_position: right
         media_width: fifty
