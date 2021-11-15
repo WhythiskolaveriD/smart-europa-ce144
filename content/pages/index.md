@@ -46,7 +46,6 @@ sections:
     features:
       - title: Our Approach
         actions: []
-        image: /images/sp.jpg
         image_alt: Feature 1 placeholder image
         media_position: bottom
         media_width: fifty
