@@ -50,8 +50,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: bottom
         media_width: fifty
-      - title: Why our approach?
-        content: >
+      - content: >
           Our planet consists of various sub-systems, such as hydrosphere,
           Lithosphere, Atmosphere and Biosphere. Traditionally we have been
           studying these sub-systems in isolation. However, recent advances in
