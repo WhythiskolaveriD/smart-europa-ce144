@@ -50,8 +50,23 @@ sections:
         media_width: fifty
       - title: Iqra Safi
         subtitle: PhD student
-        content: |
-          my bio
+        content: >
+          Hello, I am a Ph.D. student at ICWaR, IISc. I'm from Srinagar, J\&K. I
+          received my M. Tech. from NIT Bhopal, where I worked on a project
+          entitled "Study of Supply Reservoir Elevation on Nodal Pressure and
+          Discharge in Pipe Network". I completed my B. Tech. at IUST in J\&K
+          and worked on our undergrad project, “Performance-Based Potential
+          Qualification of Reclaimed Asphalt Pavement for Design and
+          Implementation of Road Pavements in Kashmir Valley," which was chosen
+          for execution in J\&K. I enjoy badminton, calligraphy, and baking in
+          my leisure time.
+
+
+
+          My research interests include hydrology, geographic information
+          systems, and remote sensing.
+
+
 
           contact: iqrashafi@iisc.ac.in
         image: /images/iqra.jpg
