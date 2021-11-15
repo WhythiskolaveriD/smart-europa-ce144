@@ -99,7 +99,7 @@ sections:
       - title: Mr. Vivek Yadav
         subtitle: PhD Student
         title_align: center
-        image: /images/vivek.jpg
+        image: /images/Photo (1).jpg
         image_position: top
       - title: Ms. Iqra Shafi
         subtitle: PhD Student
