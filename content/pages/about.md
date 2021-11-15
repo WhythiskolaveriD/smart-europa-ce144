@@ -44,7 +44,7 @@ sections:
       - title: Vivek Yadav
         subtitle: PhD student
         content: "Hello, I am a PhD student in the GESS group at ICWaR, IISc. I am from the Ghazipur district of eastern Uttar Pradesh. I completed my bachelor’s in civil engineering from BIET, Jhansi. In my B. Tech project I designed a Raw Water Treatment Plant for the Institute. As a seminar project, I looked into the impacts of Farakka Barrage & Institutional decisions on annual flooding in the Bihar state. Besides, I like reading non-fiction books and all outdoor sports.\n\n\_My research interests:\n\n*   Hydro-Climatology\n\n<!---->\n\n*   Hydrology\n\n<!---->\n\n*   Remote Sensing\n\ncontact: viveky@iisc.ac.in\n"
-        image: /images/vivek.jpg
+        image: /images/Photo (1).jpg
         image_alt: People in a conference room
         media_position: left
         media_width: fifty
