@@ -48,7 +48,7 @@ sections:
         image_alt: People in a conference room
         media_position: left
         media_width: fifty
-      - title: Iqra Safi
+      - title: Iqra Shafi
         subtitle: PhD student
         content: >
           Hello, I am a Ph.D. student at ICWaR, IISc. I'm from Srinagar, J\&K. I
