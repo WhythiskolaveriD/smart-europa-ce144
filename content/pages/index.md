@@ -104,7 +104,7 @@ sections:
       - title: Ms. Iqra Shafi
         subtitle: PhD Student
         title_align: center
-        image: /images/Pic.PNG
+        image: /images/Pic-eb82a12c.PNG
         image_position: top
     grid_cols: four
     align: center
