@@ -45,13 +45,6 @@ sections:
   - type: features_section
     features:
       - title: Our Approach
-        content: >
-          Clever signal processing has been historically proven to provide novel
-          insights. Looking at the same data, but after transforming it or
-          processing it can help us extract patterns that tend to explain
-          observed complex physical mechanisms and their spatiotemporal
-          behaviour. We aspire to develop novel data-driven approaches for
-          understanding natural phenomenon.
         actions: []
         image: /images/sp.jpg
         image_alt: Feature 1 placeholder image
