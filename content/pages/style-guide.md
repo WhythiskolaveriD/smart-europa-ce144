@@ -27,8 +27,6 @@ layout: page
 ---
 B. D. Vishwakarma, M. Horwath, A. Groh, J. L. Bamber “Accounting for GIA signal in GRACE products”, (2021), Geophysical Journal International, NA, , doi: 10.1093/gji/ggab464.
 
-\<!---->
-
 A. Tiwari, Arun G., B. D. Vishwakarma “Parameter importance assessment improves efficacy of machine learning methods for predicting snow avalanche sites in Leh-Manali Highway, India”, (2021), Science of the Total Environment, 794, , doi: 10.1016/j.scitotenv.2021.148738.
 
 <!---->
