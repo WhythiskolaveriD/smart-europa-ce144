@@ -37,7 +37,7 @@ sections:
 
 
           *   data-driven methods
-        image: /images/bdv_snowdonia.jpg
+        image: /images/bdv_snowdonia (2).jpg
         image_alt: People in conversation in the office lounge area
         media_position: right
         media_width: fifty
