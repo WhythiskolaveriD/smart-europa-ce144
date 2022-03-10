@@ -82,7 +82,7 @@ sections:
         media_width: fourty
         align: left
         image: /images/Mandal-removebg-preview (1).jpg
-      - title: lorem-ipsum
+      - title: Vandana S
         subtitle: lorem-ipsum
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
