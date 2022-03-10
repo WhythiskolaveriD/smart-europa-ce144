@@ -78,9 +78,6 @@ sections:
         content: "Hi, I am is an IoE Postdoctoral Fellow at ICWaR since March 2022. I received his PhD from Jawaharlal Nehru University​, New Delhi in January, 2022. My interest lies in studying the interaction between glaciers and climate in the Himalayan region. As part of the IoE Postdoctoral project, I plan to conduct physically-based mass balance modelling of the Ladakh and Karakoram glaciers.\n\nEmail:\_arindanm@iisc.ac.in\n"
         actions: []
         image_alt: lorem-ipsum
-        video_embed_html: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
         media_position: left
         media_width: fifty
         align: left
