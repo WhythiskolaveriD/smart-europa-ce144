@@ -21,7 +21,7 @@ sections:
           my PhD I developed data-driven methods to process level 2 GRACE data
           at catchment scale. I work with multiple Earth observation datasets to
           estimate various surface processes that are related to ongoing climate
-          change. In my free time I like to play badminton and cricket.
+          change. In my free time I like to play outdoor sports.
 
 
           My research interest:
