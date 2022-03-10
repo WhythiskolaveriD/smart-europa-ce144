@@ -83,7 +83,7 @@ sections:
         align: left
         image: /images/Mandal-removebg-preview (1).jpg
       - title: Vandana S
-        subtitle: lorem-ipsum
+        subtitle: Masters thesis student
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
           efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
