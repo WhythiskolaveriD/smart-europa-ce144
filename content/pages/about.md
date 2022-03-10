@@ -84,6 +84,7 @@ sections:
         media_position: top
         media_width: fifty
         align: left
+        image: /images/Mandal-removebg-preview (1).jpg
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         content: >-
