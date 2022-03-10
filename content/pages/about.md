@@ -79,7 +79,7 @@ sections:
         actions: []
         image_alt: lorem-ipsum
         media_position: left
-        media_width: fifty
+        media_width: fourty
         align: left
         image: /images/Mandal-removebg-preview (1).jpg
       - title: lorem-ipsum
