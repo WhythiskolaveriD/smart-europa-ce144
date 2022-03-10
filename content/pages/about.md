@@ -73,7 +73,7 @@ sections:
         image_alt: Happy co-workers
         media_position: right
         media_width: fifty
-      - title: lorem-ipsum
+      - title: Arindan Mandal
         subtitle: lorem-ipsum
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
