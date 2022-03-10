@@ -84,7 +84,7 @@ sections:
         image: /images/Mandal-removebg-preview (1).jpg
       - title: Vandana S
         subtitle: Masters thesis student
-        content: "I have a bachelor's degree in Applied Electronics and Instrumentation Engineering, and I am currently pursuing my masters in Geoinformatics from TERISAS, New Delhi. At ICWaR, I am doing my final year master's dissertation at the GESS group. For my minor project, I interned at IIST where I worked on Aerosol monitoring over Kanpur region. I am mainly interested in the application\_of remote sensing in atmospheric and oceanographic sciences. I love to read books and sing in my free time.\n\n\n\ncontact: vandana.s@terisas.ac.in\n\n"
+        content: "I have a bachelor's degree in Applied Electronics and Instrumentation Engineering, and I am currently pursuing my masters in Geoinformatics from TERISAS, New Delhi. At ICWaR, I am doing my final year master's dissertation. For my minor project, I interned at IIST where I worked on Aerosol monitoring over Kanpur region. I am mainly interested in the application\_of remote sensing in atmospheric and oceanographic sciences. I love to read books and sing in my free time.\n\ncontact: vandana.s@terisas.ac.in\n"
         actions: []
         image_alt: lorem-ipsum
         media_position: right
