@@ -90,6 +90,7 @@ sections:
         media_position: top
         media_width: fifty
         align: left
+        image: /images/Image.jpeg
   - type: grid_section
     title: 'located @ 13.0219° N, 77.5671° E'
     grid_items:
