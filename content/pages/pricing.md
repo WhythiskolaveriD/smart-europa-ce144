@@ -53,7 +53,7 @@ sections:
       - title: Project staff
         title_align: left
         content: |
-          There are no open positions at this moment.
+          We are now inviting applicationa for the position of Project Associate in a IISc-ISRO Space Technology Cell Project. More details at http://www.icwar.iisc.ac.in/opportunities-2/. The last date to apply is 18th April 2022.
         content_align: left
         actions: []
         actions_align: left
